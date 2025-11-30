@@ -1,2 +1,2 @@
 # Proyek-Progdas
-Member : Ghalib Abid Farrel, Ardiansyah Bagas Saputra, Ammar Ameera Ahmad
+Member : Ghalib Abid Farrel, Ardiansyah Bagas Ananto, Ammar Ameera Ahmad
